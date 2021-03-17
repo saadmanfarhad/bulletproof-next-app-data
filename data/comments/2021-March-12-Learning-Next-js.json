@@ -14,5 +14,13 @@
     "content": "Optimistic UI, hurray !!!",
     "createdAt": 1615978627844,
     "id": "Dok0D8Bs75ps44VxcccstLhmId-eRd"
+  },
+  {
+    "userId": "github-17143611",
+    "name": "Saadman Farhad",
+    "avatar": "https://avatars.githubusercontent.com/u/17143611?v=4",
+    "content": "Added await to the createComment function invocation.",
+    "createdAt": 1615978675672,
+    "id": "Sj60_2u_DAD6_OxQm2YwApR0lc-0WO"
   }
 ]
